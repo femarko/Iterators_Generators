@@ -6,3 +6,4 @@ pyvenv.cfg
 .idea/
 Lib/
 Scripts/
+iter_gener/
